@@ -67,7 +67,7 @@ const Navbar = () => {
 					<nav className="navbar navbar-expand-md navbar-light">
 					
 						<Link className="navbar-brand" to="/" >
-							//<img src="https://seeklogo.com/images/G/girls-and-clothing-fashion-shop-logo-0620490E6A-seeklogo.com.png" alt="Fashion Touch" />
+							{/* <img src="https://seeklogo.com/images/G/girls-and-clothing-fashion-shop-logo-0620490E6A-seeklogo.com.png" alt="Fashion Touch" /> */}
 							<span>Fashion Shop</span> 
 						</Link>	
 						
